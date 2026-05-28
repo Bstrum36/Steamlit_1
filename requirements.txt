@@ -5,3 +5,4 @@ snowflake-connector-python>=3.10,<4
 python-dotenv>=1.0,<2
 pyarrow>=18
 matplotlib>=3.8,<4
+cv2>=4.12.0
